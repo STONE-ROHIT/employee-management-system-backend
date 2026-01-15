@@ -25,3 +25,28 @@ This project demonstrates a clean layered architecture, database persistence, an
 
 ## Project Structure
 
+```
+employee-management-system-backend/
+├── .mvn/
+│ └── wrapper/
+├── src/
+│ └── main/
+│ ├── java/
+│ │ └── com/
+│ │ └── rohitCRUD/
+│ │ └── employee_management_system/
+│ │ ├── controller/
+│ │ ├── dto/
+│ │ ├── entity/
+│ │ ├── exception/
+│ │ ├── mapper/
+│ │ ├── repository/
+│ │ └── service/
+│ └── resources/
+│ └── application.properties
+├── .gitattributes
+├── .gitignore
+├── mvnw
+├── mvnw.cmd
+└── pom.xml
+```
